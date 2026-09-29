@@ -1,2 +1,2 @@
 # sri.txt
-mt information
+my information
